@@ -195,3 +195,6 @@ This repository serves as the official landing page for SQLyog Community. The so
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SQLyog Community today!**
+
+---
+**Last updated:** 2026-11-08 15:42:42 UTC
