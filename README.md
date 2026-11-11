@@ -197,4 +197,4 @@ This repository serves as the official landing page for SQLyog Community. The so
 **Get the most recent version of SQLyog Community today!**
 
 ---
-**Last updated:** 2026-11-11 10:09:03 UTC
+**Last updated:** 2026-11-11 18:16:37 UTC
